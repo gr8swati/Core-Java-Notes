@@ -142,7 +142,7 @@ public class Main {
 graph TD
     A["User Object in Heap Memory"] -->|this| B["Constructor / Method"]
     A --> C["name = 'Swati'"]
-    A --> D["email = 'abc@xyz.com'"]
+    A --> D["email = 'abc@gmail.com'"]
 ```
 
 ---
@@ -154,7 +154,5 @@ graph TD
 3. Can `this` keyword be used in static methods? Why or why not?
 4. Give a real-time example where `this` keyword is essential.
 5. Difference between `this` and `super` keywords?
-
----
 
 
