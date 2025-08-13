@@ -1,4 +1,3 @@
-
 # 📌 `this` Keyword in Java
 
 ## **Definition**
