@@ -1,9 +1,3 @@
-Got it — your GitHub markdown isn’t rendering the **diagram** and **code formatting** properly because of missing backticks and formatting breaks.
-Here’s the **fixed version** so it will display correctly on GitHub:
-
----
-
-````markdown
 # Object-Oriented Programming (OOP) vs. Procedural-Oriented Programming (POP)
 
 ---
