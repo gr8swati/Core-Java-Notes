@@ -1,18 +1,27 @@
+Got it — your GitHub markdown isn’t rendering the **diagram** and **code formatting** properly because of missing backticks and formatting breaks.
+Here’s the **fixed version** so it will display correctly on GitHub:
+
+---
+
+````markdown
 # Object-Oriented Programming (OOP) vs. Procedural-Oriented Programming (POP)
 
-## Procedural-Oriented Programming (POP)
+---
 
-### Definition
+## 1️⃣ Procedural-Oriented Programming (POP)
+
+### 📌 Definition
 Procedural-Oriented Programming focuses on **functions** (procedures) that operate on data.  
 The program is divided into **functions**, and data is passed between them.
 
-### Key Features
+### 🔹 Key Features
 - Emphasis on **functions**.
 - Data is **global** and can be accessed by any function.
 - Follows **top-down** approach.
 - Reusability is limited compared to OOP.
 
-### Example (Java Language)
+### 📄 Example (Java Language)
+```java
 public class SumExample {
 
     // Method to calculate sum
@@ -26,7 +35,6 @@ public class SumExample {
         System.out.println("Sum = " + result);
     }
 }
-
 ````
 
 ---
@@ -65,6 +73,9 @@ public class Main {
 
 ---
 
+## 📊 Visual Representation
+
+```mermaid
 flowchart LR
     subgraph OOP[OOP]
         A[Object] --> B[Methods]
@@ -76,7 +87,7 @@ flowchart LR
         E --> F[Procedure 3]
         F --> G[Shared Data]
     end
-
+```
 
 ---
 
@@ -97,4 +108,5 @@ flowchart LR
 
 * POP is simple and best for small programs.
 * OOP is powerful for large and complex systems where reusability, scalability, and maintainability matter.
+
 
