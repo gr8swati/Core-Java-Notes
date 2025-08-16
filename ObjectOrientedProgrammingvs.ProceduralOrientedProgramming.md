@@ -35,7 +35,7 @@ public class SumExample {
 
 ## Object-Oriented Programming (OOP)
 
-### 📌 Definition
+### Definition
 
 Object-Oriented Programming focuses on **objects** that combine **data** (fields) and **methods** (functions).
 The program is divided into **classes** and **objects**.
