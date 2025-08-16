@@ -2,19 +2,19 @@
 
 ---
 
-## 1️⃣ Procedural-Oriented Programming (POP)
+## Procedural-Oriented Programming (POP)
 
-### 📌 Definition
+### Definition
 Procedural-Oriented Programming focuses on **functions** (procedures) that operate on data.  
 The program is divided into **functions**, and data is passed between them.
 
-### 🔹 Key Features
+### Key Features
 - Emphasis on **functions**.
 - Data is **global** and can be accessed by any function.
 - Follows **top-down** approach.
 - Reusability is limited compared to OOP.
 
-### 📄 Example (Java Language)
+### Example (Java Language)
 ```java
 public class SumExample {
 
@@ -33,21 +33,21 @@ public class SumExample {
 
 ---
 
-## 2️⃣ Object-Oriented Programming (OOP)
+## Object-Oriented Programming (OOP)
 
 ### 📌 Definition
 
 Object-Oriented Programming focuses on **objects** that combine **data** (fields) and **methods** (functions).
 The program is divided into **classes** and **objects**.
 
-### 🔹 Key Features
+### Key Features
 
 * Emphasis on **objects**.
 * Data is **encapsulated** within classes.
 * Follows **bottom-up** approach.
 * High reusability through **inheritance**, **polymorphism**, and **encapsulation**.
 
-### 📄 Example (Java Language)
+### Example (Java Language)
 
 ```java
 class Calculator {
@@ -67,7 +67,7 @@ public class Main {
 
 ---
 
-## 📊 Visual Representation
+## Visual Representation
 
 ```mermaid
 flowchart LR
@@ -85,7 +85,7 @@ flowchart LR
 
 ---
 
-## 🔍 Difference Table
+## Difference Table
 
 | Feature         | POP                             | OOP                         |
 | --------------- | ------------------------------- | --------------------------- |
@@ -98,9 +98,7 @@ flowchart LR
 
 ---
 
-✅ **Conclusion:**
+**Conclusion:**
 
 * POP is simple and best for small programs.
 * OOP is powerful for large and complex systems where reusability, scalability, and maintainability matter.
-
-
