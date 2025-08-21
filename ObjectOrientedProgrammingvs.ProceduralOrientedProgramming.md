@@ -47,7 +47,7 @@ The program is divided into **classes** and **objects**.
 * Follows **bottom-up** approach.
 * High reusability through **inheritance**, **polymorphism**, and **encapsulation**.
 
-### Example (Java Language)
+### Example 
 
 ```java
 class Calculator {
